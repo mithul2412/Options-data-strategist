@@ -2,8 +2,6 @@
 
 An advanced options analysis tool that provides comprehensive insights and visualizations for stock options data. This dashboard uses real-time market data to analyze options metrics, including Greeks, IV skew, max pain levels, and put/call ratios, and provides strategic insights through an AI assistant.
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Options+Analysis+Dashboard)
-
 ## Features
 
 - **Real-time Options Data Analysis**: Fetch and analyze current options data for any publicly traded stock
